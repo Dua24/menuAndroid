@@ -72,7 +72,6 @@ ActionMode myActMode = null;
     }
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        String idItem = Integer.toString(item.getItemId());
         switch (item.getItemId()) {
             case R.id.option1:
             case R.id.option2:

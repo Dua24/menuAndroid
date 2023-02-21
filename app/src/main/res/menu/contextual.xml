@@ -2,8 +2,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/option1"
-        android:title="Contextual 1"
         android:icon="@drawable/ic_delete"
+        android:title=" 1"
 
         />
     <item
